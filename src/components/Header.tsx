@@ -41,7 +41,7 @@ const Header = () => {
             <span className={`text-xl font-bold transition-colors ${
               isScrolled ? 'text-gray-900' : 'text-white'
             }`}>
-              Elite Properties
+              Logo
             </span>
           </Link>
 
